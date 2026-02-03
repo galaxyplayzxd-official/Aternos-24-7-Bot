@@ -1,14 +1,14 @@
 # Aternos-24-7-Bot
-Thank Me Later my lil' Stars 🔥
+## Thank Me Later my lil' Stars 🔥
 
-Commands(use these one by one)
+# Commands(use these one by one)
 
 pkg update && pkg upgrade -y
 
 pkg install nodejs python git tmux -y
 
-git clone https://github.com/YOUR_USERNAME/mc-afk-bot.git
-cd 
+git clone https://github.com/galaxyplayzxd-official/Aternos-24-7-Bot
+cd Aternos-24-7-Bot
 
 npm install
 
